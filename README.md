@@ -14,3 +14,5 @@
 - a new fix
 
 - function-D
+
+- function-Q
