@@ -18,3 +18,5 @@
 - function-Q
 
 - function-R
+
+# change the function-R to r
