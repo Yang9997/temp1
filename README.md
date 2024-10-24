@@ -16,3 +16,5 @@
 - function-D
 
 - function-Q
+
+- function-R
